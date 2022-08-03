@@ -1,0 +1,612 @@
+﻿,품목,번역
+0,원유,crude oil
+1,LNG(액상천연가스),LNG (liquid natural gas)
+2,프로판,Propane
+3,반도체제조용장비,Semiconductor
+4,쇠고기,beef
+5,비행기,airplane
+6,콘트롤러,Controller
+7,프로세스,process
+8,의약품,medicine
+9,로얄제리,Royal Jerry
+10,나프타,naphtha
+11,불꽃점화식,Flamies
+12,정밀화학원료,Fine chemicals
+13,부탄,butane
+14,승용차,car
+15,항공기엔진,Aircraft engine
+16,대두,Big head
+17,석유 화학 제품,Petrochemical
+18,정밀 화학제품,Fine chemicals
+19,사료,feed
+20,밀,wheat
+21,돼지고기,Pork
+22,동스크랩,Dong Scrap
+23,전기자동차,Electric car
+24,의료용기기,Medical container
+25,교류발전기,Alternator
+26,화학공업제품,Chemical
+27,광학기기부품,Optical
+28,고철,Scrap metal
+29,박류,Pak
+30,플라스틱제품,Plastic
+31,유연탄,Bitum
+32,물리화학분석기,Physics
+33,염료,dyes
+34,합성수지,Synthetic resin
+35,귀금속장식품,Precious metal food
+36,밸브,valve
+37,기초유분,Basic oil
+38,집적회로반도체,Integrated circuit semiconductor
+39,개인용컴퓨터,Personal computer
+40,오렌지,Orange
+41,치이즈,Chisis
+42,주류,mainstream
+43,금속광물,Metal minerals
+44,기계류,machinery
+45,문구,Phrases
+46,전자응용기기,Electronic application
+47,계측기부품,Instrument
+48,산업기계,Industrial machine
+49,압축점화식,Compression
+50,광학기기,Optical
+51,자동차부품,Automotive Parts
+52,의료용전자기기,Medical electronics
+53,화장품,cosmetics
+54,계측기,measuring instrument
+55,귀금속장식품,Precious metal food
+56,메모리반도체,Memory semiconductor
+57,폴리아미드수지,Polyamide resin
+58,아몬드,almond
+59,대두유,Soybean oil
+60,주철,cast iron
+61,실리콘웨이퍼,Silicon wafer
+62,레이더,Radar
+63,고지,notice
+64,단백질류,Protein
+65,감자,potato
+66,종이제품,Paper product
+67,기계요소,Mechanical element
+68,백금,platinum
+69,연결부품,Connecting parts
+70,자동제어기,Automatic controller
+71,농산가공품,Agricultural
+72,소가죽,Cowhide
+73,면,noodle
+74,골프용품,Golf
+75,호도,Hodo
+76,터보제트,Turbo jet
+77,펌프부품,Pump part
+78,액체펌프,Liquid pump
+79,커피,coffee
+80,석유제품,Petroleum
+81,펄프,pulp
+82,타일 제품,Tile product
+83,도자기 제품,Pottery
+84,기체펌프,Gas pump
+85,알루미늄제품,Aluminum
+86,화물자동차,Truck
+87,쌀,rice
+88,포도주,wine
+89,아크릴로니트닐,Acrylonite Neil
+90,항공기부품,Aircraft parts
+91,볼트및너트,Bolt and nut
+92,벙커-C유,Bunker-C Yu
+93,분석시험기부품,Analytical tester parts
+94,콘테이너,Container
+95,산업기계부품,Industrial machinery
+96,알루미늄판,Aluminum
+97,요업제품,Ya -up
+98,철강재용기,Steel
+99,비철금속제품,Non -ferrous metal products
+100,광학렌즈,Optical lens
+101,유리제품,Glass
+102,원동기부품,Wondering parts
+103,유량압력계,Flow pressure system
+104,반도체제조용장비부품,Semiconductor equipment parts
+105,무기류,weaponry
+106,정지형변환기,Stop
+107,안료,Pigment
+108,실리콘수지,Silicone resin
+109,절연코드세트,Insulation code set
+110,X선및방사선기기부품,X -ray and radiation device parts
+111,원동기,Mobilization
+112,어육,Fishery
+113,은,silver
+114,주강,River
+115,의료용전자기기부품,Medical electromagnetic parts
+116,기계류부품,Machine parts
+117,과실,fruit
+118,의료위생용품,Medical hygiene
+119,도료,varnish
+120,두발용 제품,Haircut
+121,플라스틱관,Plastic tube
+122,전자계측기,Electronic instrument
+123,코코아조제품,Cocoa
+124,화학기계,Chemical
+125,X선및방사선기기,X -rays and radiation devices
+126,콘택트렌즈,Contact lens
+127,고무제품,Rubber product
+128,윤활유,lubricant
+129,아연광,Zinc
+130,베어링,bearing
+131,전동축및기어,Electric axis and gear
+132,승용차용타이어,Passenger tire
+133,우주선부품,Spacecraft
+134,유리거울,Glass mirror
+135,LCD,LCD
+136,서적,books
+137,농약,pesticide
+138,축전지,Battleship
+139,저압 차단기,Low pressure breaker
+140,저압 스위치,Low pressure switch
+141,레몬,lemon
+142,불꽃 점화식 내연기관,Flame ignition internal combustion engine
+143,냉방기,Air conditioner
+144,채유종실,Chae Yu -jong room
+145,과일주스,Fruit juice
+146,구강 위생용품,Oral hygiene
+147,컴퓨터주변기기,Computer peripheral
+148,폴리카보네이트,Polycarbonate
+149,합성고무,Synthetic rubber
+150,공기조절기,Air regulator
+151,비금속광물,Non -gold
+152,철강금속제품,Steel Metal Products
+153,저밀도에틸렌,Low density ethylene
+154,초코렛,Chocolate
+155,운반하역기계부품,Transport and unloading machine parts
+156,자동제어기부품,Automatic controller
+157,육류,meat
+158,광택제 등,Glossy
+159,생활용품,Household goods
+160,운동용구,Sports
+161,폴리메탄아크릴산메틸,Polymethane acrylic acid methyl
+162,고령토,china clay
+163,전산기록매체,Computer
+164,유리가공기계부품,Glass processing machine
+165,압축점화식,Compression
+166,아세테이트사,Acetate company
+167,소스류,Sauce
+168,에폭시수지,Epoxy
+169,소시지,sausage
+170,센서,sensor
+171,의섬유제품,Fiber
+172,윤활제,slush
+173,회로보호용기기,Circuit protection container
+174,빵,bread
+175,컴퓨터부품,Computer parts
+176,전동기 부분품,Motor
+177, 절연부품,Insulation parts
+178,의료용기기부품,Medical container parts
+179,표면활성제,Surface active agent
+180,신발,shoes
+181,사진영화용재표,Photographer
+182,종자류,Seed
+183,전자관,valve
+184,석유화학중간원료,Petrochemical
+185,직류발전기,DC generator
+186,세안용품,Cleansing supplies
+187,제재목,Sanctions
+188,철강제  주방용품,Steel kitchenware
+189,철강제 식탁용품,Steel
+190,골판지원지,Cardboard
+191,향수,perfume
+192,식물성액즙,Vegetable juice
+193,니켈판및대,Nickelpan and
+194,농약원제,Pesticide
+195,전자현미경,Electron microscope
+196,건설중장비,Construction heavy equipment
+197,인쇄물,prints
+198,당류,sugars
+199,정류기,rectifier
+200,자동차,car
+201,운동복,Sportswear
+202,버터,butter
+203,어류,Pisces
+204,아세테이트섬유,Acetate fiber
+205,토지측량기,Land surveyor
+206,자동차용 내연기관,Automotive
+207,효모류,Yeast
+208,도금강판,Plating steel
+209,빵제조용재료,Bakery
+210,접착제,glue
+211,유지가공품,Maintenance
+212, ,Etc
+213,트랜지스터,transistor
+214,잡제품,Jumble
+215,니켈제품,Nickel
+216,무선원격조절기,Wireless
+217,안테나,antenna
+218,유리제 주방용품,Glass kitchenware
+219,유리제 식탁용품,Glass
+220,저압케이블,Low pressure cable
+221,비스킷,biscuit
+222,온도계,thermometer
+223,금속공작기계부품,Metal machine tool part
+224,식물성유지,Plantic maintenance
+225,HDD,HDD
+226,백판지,White plate
+227,인쇄회로,Printed circuit
+228,난방 부품,Heating part
+229,전열기기 부품,Heating equipment parts
+230,스테인레스강냉연강판,Stainless steel
+231,채소,vegetable
+232,전구,bulb
+233,동괴,Dynamic
+234,사무용품,Office Supplies
+235,견과류,nuts
+236,재료시험기,Material tester
+237,모터사이클,Motorcycle
+238,잎담배,Leafy
+239,인버터,inverter
+240,압축점화식내연기관,Compression point
+241,옥수수,corn
+242,에틸렌중합체필름,Ethylene polymer
+243,경보신호기,Alarm signal
+244,건설중장비부품,Construction heavy equipment parts
+245,볼링용품,Bowling
+246,인쇄기계,Printing machine
+247,곡분,Grain
+248,운반 하역 기계,Transportation machine
+249,분유,Powdered milk
+250,마찰 제품,Friction
+251,믹서,mixer
+252,빙과류,Ice
+253,알루미늄봉,Aluminum
+254,맥주,beer
+255,부직포,Non-woven
+256,화학기계부품,Chemical
+257,전자현미경부품,Electronic prefecture microscopic parts
+258,반창고,adhesive plaster
+259,연마제품,Polishing product
+260,초음파영상진단기,Ultrasound
+261,수산가공품,Fishery
+262,낙농품,Dairy
+263,고압케이블,High -voltage cable
+264,무기류부품,Weapon parts
+265,곡류가공품,Grain
+266,금속절삭가공기계,Metal
+267,커피 조제품,Coffee preparation
+268,아세탈수지,Acet
+269,원목,Solid wood
+270,폴리프로필렌,Polypropylene
+271,전자부품,Electronic parts
+272,특장차,Special car
+273,위스키,whiskey
+274,화장지,paper towel
+275,토마토,tomato
+276,직류전동기,DC motor
+277,니켈관,Nickel tube
+278,고정식 축전기,Fixed festival
+279,왁스,Wax
+280,땅콩,peanut
+281,오락용구,Entertainment
+282,조명기기,Lighting equipment
+283,컴포넌트,component
+284, 가정용 전자부품,Household electronic components
+285,닭,chicken
+286,철강제품,Steel
+287,내시경,Endoscope
+288,엔진결합발전세트,Engine combined power set
+289,침구이불,Bedding
+290,완구,toy
+291,교통신호기,Traffic
+292,용접기부품,Welding
+293,안경,glasses
+294,다이오드,diode
+295,TV,TV
+296,소형전동기,Small motor
+297,직류 전동기,DC motor
+298,교류 전동기,Alternator
+299,사탕,candy
+300,고무관,Rubber
+301,염화비닐수지,Chloride
+302,스테인레스및합금강봉강,Stainless and alloy steel bonggang
+303,음료,beverage
+304,동축케이블,Coaxial cable
+305,알루미늄스크랩,Aluminum scrap
+306,휴대용컴퓨터,Portable computer
+307,악기부분품,Instrument
+308,식물성물질,Plant
+309,스피커,speaker
+310,필기구,Writing instrument
+311,개폐기부분품,Opening and closing
+312,니켈박,Nickel
+313,공기조절기부품,Air control part
+314,어란,roe
+315,난류,turbulence
+316,OLED,OLED
+317,그 밖의 의자,Other chairs
+318,철도차량부품,Railway vehicle
+319,고속도강및초경공구,Expressway steel and ultra -light tools
+320,가방,bag
+321,가구,furniture
+322,커팅공구,Cutting tool
+323,화장품,cosmetics
+324,금,gold
+325,스웨터,sweater
+326,포도,grape
+327,가열난방기부품,Heating
+328, 전기부품,Electrical parts
+329,전기용접기,Electrical fold
+330,임산부산물,Forest
+331,라이터,lighter
+332,나일론사,Nylon
+333,동판,copper
+334,경보신호기부품,Alarm signal
+335,산동물,Shadow
+336,광케이블,Optical cable
+337,보조기억장치,Auxiliary memory device
+338,자두,plum
+339,동박,Copper
+340,벤젠,benzene
+341,알루미늄구조물,Aluminum structure
+342,의직물,Fabrication
+343,무계목강관,Mu -Gye Mokgang
+344,닭고기,chicken
+345,폴리에틸렌테레프탈레이트필름,Polyethylene Terephthalate film
+346,수상기,seaplane
+347,스프링,spring
+348,농기계부품,Agricultural machinery
+349,꿀,honey
+350,인조섬유장섬유사,Artificial fiber
+351,겨자,mustard
+352,합성섬유,Synthetic fiber
+353,농기계,Agricultural machine
+354,냉장고,refrigerator
+355,변환장치 부분품,Conversion device
+356,헬리콥터,Helicopter
+357,난방기기,Radiator
+358,냉방기부품,Air conditioner
+359,흑연,black smoke
+360,온수보일러,Hot water
+361,모터보트,Motorboat
+362,바다가재,Sea lacquer
+363,고정식저항기,Fixed food
+364,수공구,Hand tool
+365,음료베이스,Drink base
+366,악기,instrument
+367,말,word
+368,공기압공구,Air pressure tool
+369,현상하지않은필름,Unprecedented film
+370,전자석,Electromagnet
+371,선재,Prehistoric
+372,니켈봉,Nickel
+373,섬유기계,Fiber
+374,동분,Guitar
+375,타이어,tire
+376,와이어하네스,Wire harness
+377,목욕용 제품,Bath product
+378,변성기,Metamorphosis
+379,알루미늄괴,Aluminum
+380,속도계,speedometer
+381,수확탈곡기계,Harvesting machine
+382,개별소자반도체,Individual device semiconductor
+383,철구조물,Iron structure
+384,복합비료,Complex fertilizer
+385,철강재체인,Steel
+386,제조담배,Mejo cigarette
+387,고무플라스틱가공기계부품,Rubber plastic processing machine parts
+388,난방기기,Radiator
+389,합성수지제 가방,Synthetic resin bag
+390,건식 변압기,Dry transformer
+391,현악기,String
+392,제지인쇄기계부품,Paper printing machine parts
+393,동봉,worker bee
+394,모자,hat
+395,광물가공기계부품,Mineral process
+396,대구,Dae-gu
+397,소금,salt
+398,현미경,microscope
+399,강낭콩,kidney bean
+400,계전기,relay
+401,알루미늄용기,Aluminum container
+402,언더셔츠,Undershirt
+403,합금강냉연강판,Alloy river cold rolling steel plate
+404,자기제 식탁용품,Self -dining table
+405,자기제 주방용품,Self -kitchenware
+406, 기기,device
+407,니켈분,Nickel
+408,브라우스,Brown
+409,압연기,Rolling machine
+410,방송용통신기기,Broadcasting communication device
+411,증폭기,amplifier
+412,이륜차부품,Two -wheeled car parts
+413,식품가공기계,Food machinery
+414,스테인레스강 강관,Stainless steel pipe
+415,면도용품,Shaving
+416,주조 설비 부품,Casting equipment
+417,가정용전자,Household electronics
+418,자전거부품,Bicycle
+419,건전지,battery
+420,선박용 불꽃점화식엔진,Ship fireworks point
+421,유선 통신기기 부품,Wired communication
+422,발전기 부분품,Generator
+423,연축전지,Spanning battery
+424,수산물,Seafood
+425,플라이어,pliers
+426,크라프트지,Kraft magazine
+427,수산부산물,Fishery
+428,면도용 제품,Shaving
+429,용접기,welding machine
+430,아크릴로니트닐부타디,Acrylonite Neil Butadi
+431,축산물부산물,Livestock
+432,녹두,green gram
+433,농산물왁스,Agricultural
+434,폴리아미드필름,Polyamid Film
+435,알루니늄관연결구류,Aloninum tube connection
+436,배전보드,Distribution board
+437,질소비료,Nitrogen fertilization
+438,모조 장식품,Imitation
+439,알루미늄관,Aluminum tube
+440,지방성물질,Fat
+441,식품가공기계부품,Food processing machine parts
+442,곡실류,Songmill
+443,스패너,spanner
+444,폴리스티렌,polystyrene
+445,목재류,Wood
+446,정당,party
+447,축전지부품,Festival
+448,두류,Two
+449,무정전전원장치,Unlimited transfer device
+450,전기계측기,Electroplania
+451,선풍기,fan
+452,선박용 압축점화식 엔진,Ship compression point engine engine
+453,변성기,Metamorphosis
+454,고압회로접속기,High -pressure circuit connection
+455,해바라기씨,Sunflower
+456,동선,Copper wire
+457,수산화나트륨,Sodium hydroxide
+458,낚시용구,Fishing ball
+459,유아용냅킨,Napkin
+460,광산기계부품,Mining machine
+461,스키용품,Skiing
+462,신사복상의,Shrine
+463,개별소자반도체부품,Individual device semiconductor parts
+464,주화,coinage
+465,식품포장기계,Food packaging machine
+466,비누,soap
+467,자전거,bicycle
+468,주조설비,Casting equipment
+469,마이크로폰,microphone
+470,권선,Winding
+471,밧데리충전기,Battery
+472,밀링공구,Milling tool
+473,양말,Amount - say
+474,텐트및캠프용품,Tent and camp supplies
+475,안전유리,Safety glass
+476,손목시계,watch
+477,유리용기,Glass container
+478,로프,rope
+479,전동공구,Power tool
+480,메인보드,Motherboard
+481,물,water
+482,고무플라스틱가공기계,Rubber plastic processing machine
+483,여성바지스커트,Female pants skirt
+484,연체동물,Mollusk
+485,스테인레스강열연강판,Stainless steel
+486,남성바지,Male pants
+487,드릴링 공구,Drilling tool
+488,선박용 부품,Ship
+489,측정공구,Measurement tool
+490,직물제가방,Fabric
+491,차량용의자,Vehicle suspect
+492,니켈괴,Nickel
+493,식품포장기계부품,Food packaging machine parts
+494,니켈관연결구류,Nickel tube connection
+495,불도우저,Fire helper
+496,오징어,squid
+497,전자게임기,Electronic game console
+498,토지측량기부품,Land surveyor
+499,데이터디스플레이장치,Data Display device
+500,토마토케찹,Tomato Keak
+501,드레스,dress
+502,애자,Cherry
+503,판유리,plate glass
+504,항공기용의자,Aircraft chair
+505,폴리에스테르수지,Polyester resin
+506,프로필렌중합체필름,Propylene polymer
+507,공구,tool
+508,통신선,Communication line
+509,,Etc
+510,철및비합금강용접강관(중소),Steel and non -combined gold steel tobility (small and medium)
+511,아답터,adapter
+512,단강,Danggang
+513,종자류,Seed
+514,진주 장식품,Pearl
+515,알루미늄박,Aluminum
+516,명란,Cod roof
+517,마요네스,Mayones
+518,탄소부품,Carbon parts
+519,부틸고무,Butyl rubber
+520,폐건전지,Pulmonary battery
+521,인체용 탈취제,Human body deodorant
+522,신발부분품,Shoe
+523,홍차,black tea
+524,미술 용구,Art
+525,밀가루,flour
+526,알루미늄분,Aluminum
+527,발포성 폴리스티렌,Foamed
+528,텅스텐제품,Tungsten
+529,명태,Pollock
+530,고무밸트,Rubber belt
+531,용의 전기로,Dragon
+532,목제식탁용품,Wooden
+533,고무제의류,Rubber clothing
+534,집적회로반도체부품,Integrated circuit semiconductor parts
+535,차단기 부분품,Breaker
+536,칼륨비료,Potassium
+537,주철제관연결구류,Cast iron consolidation
+538,바지,pants
+539,스커트,skirt
+540,딸기,Strawberry
+541,관악기,wind
+542,정기간행물,Periodical
+543,지게차,fork lift
+544,알루미늄 선,Aluminum line
+545,곡류,Grain
+546,플라스틱깔개및벽피복,Plastic pallets and walls
+547,면류,noodles
+548,프로필렌,Propylene
+549,타일,tile
+550,혁제의류,Revolutionary clothing
+551,광학유리,Optical glass
+552,경작기계,Agreement
+553,철및비합금강냉연강판,Iron and Non -Gold River cold rolling steel plate
+554,보링공구,Boring tool
+555,가열기구,Heating equipment
+556,양파,onion
+557,인형,doll
+558,남성셔츠,Male shirt
+559,완두,pea
+560,동제품,Dongje
+561,스테인레스강중후판,Stainless steel plate
+562,유입식 변압기,Inflow transformer
+563,시계,watch
+564,동광,Copper mine
+565,새우,shrimp
+566,타악기,percussion instrument
+567,중량계,Weightometer
+568,파워서플라이,Power supply
+569,음향기기부품,Sound equipment parts
+570,우유,milk
+571,가변식저항기,Variable resistance
+572,화초,Flora
+573,SBR,SBR
+574,실내용품,Indoor
+575,오이,cucumber
+576,VCR,VCR
+577,편직제의류,Knitting
+578,화장용품,Cosmetics
+579,실험실용 전기로,Experimental practical electricity
+580,니켈스크랩,Nickel scrap
+581,낙농기계,Dairy
+582,천체관측기기,Celestial instrument
+583,식물성한약재,Vegetable
+584,전기강판,Electric steel sheet
+585,버스및화물차용타이어,Bus and cargo tires
+586,합금강중후판,Alloy
+587,손수건 스카프,Handkerchief
+588,검,knife
+589,해양구조물,Marine structure
+590,가변식축전기,Variable
+591,원자로 및 부분품,Reactor and parts
+592,동관연결구류,Dongguan connection detention
+593,퓨우즈,Puzuz
+594,화장지,paper towel
+595,동물성유지,Animal maintenance
+596,유리식기및장식품,Glass and intestinal food
+597,인삼류,Ginseng
+598,고압 개폐기,High -voltage
+599,고압 차단기,High pressure breaker
+600,혈압측정기,Blood pressure meter
+601,전자응용기기부품,Electronic application device parts
+602,커튼,curtain
+603,불꽃점화식,Flamies
+604,진공청소기,Vacuum cleaner
+605,편직물,Knitting
+606,자기공명촬영기,Magnetic resonance shooter
+607,카메라,camera
+608,심전계,Electrocardiography
+609,안정기,ballast
+610,여성양복상의,Female
