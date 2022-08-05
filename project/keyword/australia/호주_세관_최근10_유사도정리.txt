@@ -1,0 +1,38 @@
+0번 - Indexation of customs duty rates on excise-equivalent goods on 1 August 2022
+fuel, beers, occuring
+0.75, 0.75, 0.75
+
+1번 - Removal of customs duty on certain electric vehicles
+car, measure, belarus, fuel, vehicles, directed
+0.9, 0.8, 0.75, 0.75, 0.75, 0.75
+
+2번 - Application for Customs Broker Licences
+make, molonglo
+0.75, 0.75
+
+3번 - Temporary duty reduction for goods from Ukraine
+urp, belarus
+0.75, 0.75
+
+4번 - Application for Customs Broker Licences
+nsw, hageman, make, brien, molonglo, wang, plummer, gatt, bradley
+0.75, 0.75, 0.75, 0.75, 0.75, 0.75, 0.75, 0.75, 0.75
+
+5번 - "Cargo reporting requirements for international mail and certain internal business documents"
+X
+
+6번 - "New timeframes for the disposal of unentered and abandoned goods"
+fisheries, latha, agriculture
+0.75, 0.75, 0.75
+
+7번 - Tariff Concession ??Item 57 ??Revised
+medicaments, medical
+0.75, 0.75
+
+8번 -Commencement of phase 2 of the Recycling and Waste Reduction (Export?밯aste Plastics) Rules 2021
+plastic, measure, plasctics, baled, stamastis, fuel
+0.9, 0.8, 0.75, 0.75, 0.75, 0.75
+
+9번 - Application for Customs Broker Licences
+make, molonglo
+0.75, 0.75
