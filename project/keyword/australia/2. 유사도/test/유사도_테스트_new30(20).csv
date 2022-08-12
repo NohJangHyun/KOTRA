@@ -1,0 +1,21 @@
+﻿summary,bigram,keyword,distance
+"주류, 맥주, 연료 제품을 포함한 특정 소비재 관련 새로운 관세율 명시",beers fuel/beers fuel/beers fuel/beers fuel,beverage/propane/alcohol/butane,0.589/0.586/0.572/0.513
+"전기 차, 하이브리드 차량, 연료 효율 높은 자동차에 대한 대한 관세 철폐",luxury car/vehicles electric/vehicles notice,car/car/car,0.669/0.553/0.541
+브로커 면허 신청,,,
+우크라이나로부터의 상품에 대한 임시 관세 감면,product australia,agricultural products,0.503
+브로커 면허 신청,,,
+국제 우편 및 특정 업무 문서 관련 통지,,,
+미입고 및 폐기물의 폐기 관련 통지,,,
+관세 변경 통지 - 의약품,containers medicaments/containers medicaments/disinfectant preparations/treatment equipment/containing medicaments,Medical container/Medical container parts/Cleansing supplies/Cleansing supplies/Medical container,0.825/0.739/0.662/0.639/0.597
+재활용 및 폐기물 감소 - 플라스틱,plastics plastic/plastic allow/waste plastic/waste plastics/plastic recycling,Plastic/Plastic/Plastic/Plastic/Plastic,0.889/0.767/0.74/0.737/0.689
+브로커 면허 신청,,,
+고급 자동차 세금 고시,luxury car/effect fuel,car/propane,0.669/0.524
+브로커 면허 신청,,,
+브로커 면허 신청,,,
+브로커 면허 신청,,,
+벨라루스 상품에 대한 관세율 변동,,,
+치즈 수입 관련 문서,base cheese/cheese curd/imported cheese/year cheese/cheese curd,cheese/cheese/cheese/cheese/Dairy,0.732/0.732/0.704/0.702/0.581
+브로커 면허 신청,,,
+수입 금지 규정,bear arms/bearing arms,weaponry/weaponry,0.59/0.555
+특정 연료 관세 개정,fuel temporary/gas litre/gas litre/fuel temporary,propane/propane/LNG (liquid natural gas)/butane,0.605/0.543/0.541/0.538
+새로운 통계 코드,structural timber/export commodity/commodity classification/timber units/urea diesel,Solid wood/agricultural products/agricultural products/Solid wood/benzene,0.684/0.567/0.534/0.515/0.51
