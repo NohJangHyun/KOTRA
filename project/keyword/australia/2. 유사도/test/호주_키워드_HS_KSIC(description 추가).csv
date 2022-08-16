@@ -1,101 +1,182 @@
 ﻿품목,번역,hscode,산업 이름,KSIC,description
 LNG(액상천연가스),LNG (liquid natural gas),271111,원유 및 천연가스 채굴업,5200,Petrtoleum gases and other gaseous hydrocarbons.
+,natural gas,271111,원유 및 천연가스 채굴업,5200,Petrtoleum gases and other gaseous hydrocarbons.
 유연탄,bituminous coal,270112,석탄 광업,5100,"Coal; briquettes, ovoids and similar solid fuels manufactured from coal."
+,Coal,270112,석탄 광업,5100,"Coal; briquettes, ovoids and similar solid fuels manufactured from coal."
 철광,iron mine,250200,화학용 및 비료원료용 광물 광업,7210,Unroasted iron pyrites.
 쇠고기,beef,20610,육류 도축업(가금류 제외)/육류 포장육 및 냉동육 가공업(가금류 제외),10111/10122,"Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen."
+,livestock meat,20610,육류 도축업(가금류 제외)/육류 포장육 및 냉동육 가공업(가금류 제외),10111/10122,"Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen."
+,Meat,20610,육류 도축업(가금류 제외)/육류 포장육 및 냉동육 가공업(가금류 제외),10111/10122,"Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen."
 동광,copper mine,260300,비철금속 광업,6200,Copper ores and concentrates.
 원유,crude oil,270900,원유 및 천연가스 채굴업,5200,"Petroleum oils and oils obtained from bituminous minerals, crude."
 금,gold,261690,비철금속 광업,6200,Precious metal ores and concentrates.
 아연광,zinc,260800,비철금속 광업,6200,Zinc ores and concentrates.
 무연탄,anthracite,270111,석탄 광업,5100,"Coal; briquettes, ovoids and similar solid fuels manufactured from coal."
+,Coal,270111,석탄 광업,5100,"Coal; briquettes, ovoids and similar solid fuels manufactured from coal."
 금속광물,metal minerals,262029,그 외 기타 달리 분류 되지 않은 제품 제조업,33999,"Slag, ash and residues (other than from the manufacture of iron or steel) containing metals, arsenic or their compounds."
 알루미늄,aluminum,760120,"알루미늄 제련, 정련 및 합금 제조업",24212,Unwrought aluminium.
 원당,raw sugar,170112,설탕 제조업,10720,"Cane or beet sugar and chemically pure sucrose, in solid form."
+,sugar stream,170112,설탕 제조업,10720,"Cane or beet sugar and chemically pure sucrose, in solid form."
 밀,wheat,100199,,,Wheat and meslin.
+,cereal crops,100199,,,Wheat and meslin.
+,grain flow,100199,,,Wheat and meslin.
 니켈 ,nickel,750210,"기타 비철금속 제련, 정련 및 합금 제조업",24219,Unwrought nickel.
 부탄,butane,271113,원유 정제 처리업,19210,Petrtoleum gases and other gaseous hydrocarbons.
+,LPG,271113,원유 정제 처리업,19210,Petrtoleum gases and other gaseous hydrocarbons.
 프로판,propane,271112,원유 정제 처리업,19210,Petrtoleum gases and other gaseous hydrocarbons.
+,LPG,271112,원유 정제 처리업,19210,Petrtoleum gases and other gaseous hydrocarbons.
 양고기,lamb,20443,육류 포장육 및 냉동육 가공업(가금류 제외),10122,"Meat of sheep or goats, fresh, chilled or frozen."
+,livestock meat,20443,육류 포장육 및 냉동육 가공업(가금류 제외),10122,"Meat of sheep or goats, fresh, chilled or frozen."
+,Meat,20443,육류 포장육 및 냉동육 가공업(가금류 제외),10122,"Meat of sheep or goats, fresh, chilled or frozen."
 사료,feed,100199,,,Wheat and meslin.
 나프타,naphtha,271012,원유 정제 처리업,19210,"Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils."
+,petroleum products,271012,원유 정제 처리업,19210,"Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils."
 고철,scrap iron,720410,그 외 기타 달리 분류 되지 않은 제품 제조업,33999,Ferrous waste and scrap; remelting scrap ingots of iron or steel.
+,iron and steel alloy,720410,그 외 기타 달리 분류 되지 않은 제품 제조업,33999,Ferrous waste and scrap; remelting scrap ingots of iron or steel.
 비금속광물,nonmetalic minerals,262110,그 외 기타 달리 분류 되지 않은 제품 제조업,33999,"Other slag and ash, including seaweed ash (kelp); ash and residues from the incineration of municipal waste."
 소금,salt,250100,천일염 생산 및 암염 채취업,7220,"Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water."
 안료,pigment,320649,"염료, 조제 무기 안료, 유연제 및 기타 착색제 제조업",20132,"Other colouring matter; preparations as specified in Note 3 to this Chapter, other than those of heading 32.03, 32.04 or 32.05; inorganic products of a kind used as luminophores, whether or not chemically defined."
 동스크랩,copper scrap,740400,그 외 기타 달리 분류 되지 않은 제품 제조업,33999,Copper waste and scrap.
+,lump of copper,740400,그 외 기타 달리 분류 되지 않은 제품 제조업,33999,Copper waste and scrap.
+,copper product,740400,그 외 기타 달리 분류 되지 않은 제품 제조업,33999,Copper waste and scrap.
 종자류,seed,120910,,,"Seeds, fruit and spores, of a kind used for sowing."
 로얄제리,royal jelly,41000,,,"Insects and other edible products of animal origin, not elsewhere specified or included."
+,Honey and royal jelly,41000,,,"Insects and other edible products of animal origin, not elsewhere specified or included."
+,livestock products,41000,,,"Insects and other edible products of animal origin, not elsewhere specified or included."
 암모니아수,ammonia water,281410,기타 기초 무기 화학 물질 제조업,20129,"Ammonia, anhydrous or in aqueous solution."
+,Precision chemical raw materials,281410,기타 기초 무기 화학 물질 제조업,20129,"Ammonia, anhydrous or in aqueous solution."
 원목,Solid wood,440393,,,"Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared."
+,lumber,440393,,,"Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared."
 모류,caterpillar,50210,그 외 기타 달리 분류 되지 않은 제품 제조업,33999,"Pigs`, hogs` or boars` bristles and hair; badger hair and other brush making hair; waste of such bristles or hair."
 자동차부품,Automotive Parts,732010,금속 스프링 제조업,25943,"Springs and leaves for springs, of iron or steel."
 쌀,rice,100610,,,Rice.
+,cereal crops,100610,,,Rice.
+,grain flow,100610,,,Rice.
 치즈,cheese,40690,액상시유 및 기타 낙농 제품 제조업,10501,Cheese and curd.
+,dairy products,40690,액상시유 및 기타 낙농 제품 제조업,10501,Cheese and curd.
+,livestock products,40690,액상시유 및 기타 낙농 제품 제조업,10501,Cheese and curd.
 육류,meat,20830,육류 도축업(가금류 제외)/육류 포장육 및 냉동육 가공업(가금류 제외),10111/10122,"Other meat and edible meat offal, fresh, chilled or frozen."
 보리,barley,100310,,,Barley.
+,cereal crops,100310,,,Barley.
+,grain flow,100310,,,Barley.
 의약품,medicine,291823,의약용 화합물 및 항생물질 제조업,21101,"Carboxylic acids with additional oxygen function and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives."
 무기류,weaponry,930200,무기 및 총포탄 제조업,25200,Revolvers and pistols
 식물성유지,vegetable oil,151211,식물성 유지 제조업,10402,"Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified."
+,vegetable matter,151211,식물성 유지 제조업,10402,"Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified."
 포도주,wine,220410,기타 발효주 제조업,11119,"Wine of fresh grapes, including fortified wines; grape"
+,the mainstream,220410,기타 발효주 제조업,11119,"Wine of fresh grapes, including fortified wines; grape"
 화장품,cosmetics,330410,화장품 제조업,20423,"Beauty or make-up preparations and preparations for the care of the skin (other than medicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations."
+,soap and toothpaste,330410,화장품 제조업,20423,"Beauty or make-up preparations and preparations for the care of the skin (other than medicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations."
 비철금속제품,nonferrous metal products,284430,기타 기초 무기 화학 물질 제조업,20129,Radioactive chemical elements and radioactive isotopes (including the fissile or fertile chemical elements and isotopes) and their compounds; mixtures and residues containing these products.
 동,copper,740311,"동 제련, 정련 및 합금 제조업",24211,"Refined copper and copper alloys, unwrought."
 옥수수,corn,100510,,,Maize (corn).
+,cereal crops,100510,,,Maize (corn).
+,grain flow,100510,,,Maize (corn).
 감자,potato,70110,,,"Potatoes, fresh or chilled."
+감자,grain,70110,,,"Potatoes, fresh or chilled."
+,grain flow,70110,,,"Potatoes, fresh or chilled."
 우지,beef tallow,151610,식용 정제유 및 가공유 제조업,10403,"Animal, vegetable or microbial fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified, or elaidinised, whether or not refined, but not further prepared."
+,animal oil,151610,식용 정제유 및 가공유 제조업,10403,"Animal, vegetable or microbial fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified, or elaidinised, whether or not refined, but not further prepared."
+,livestock by-products,151610,식용 정제유 및 가공유 제조업,10403,"Animal, vegetable or microbial fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified, or elaidinised, whether or not refined, but not further prepared."
 분유,Powdered milk,40210,액상시유 및 기타 낙농 제품 제조업,10501,"Milk and cream, concentrated or containing added sugar or other sweetening matter."
+,dairy products,40210,액상시유 및 기타 낙농 제품 제조업,10501,"Milk and cream, concentrated or containing added sugar or other sweetening matter."
+,livestock products,40210,액상시유 및 기타 낙농 제품 제조업,10501,"Milk and cream, concentrated or containing added sugar or other sweetening matter."
 세안용품,Cleansing supplies,340111,"치약, 비누 및 기타 세제 제조업",20422,"Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, moulded pieces or shapes, whether or not containing soap; organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent."
+,Cosmetics,340111,"치약, 비누 및 기타 세제 제조업",20422,"Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, moulded pieces or shapes, whether or not containing soap; organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent."
+,Soap and toothpaste,340111,"치약, 비누 및 기타 세제 제조업",20422,"Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, moulded pieces or shapes, whether or not containing soap; organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent."
 보리가루,Barley powder,110290,곡물 제분업,10612,Cereal flours other than of wheat or meslin.
+,grain powder,110290,곡물 제분업,10612,Cereal flours other than of wheat or meslin.
+,grain flow,110290,곡물 제분업,10612,Cereal flours other than of wheat or meslin.
 박류,gourd,180200,그 외 기타 달리 분류 되지 않은 제품 제조업,33999,"Cocoa shells, husks, skins and other cocoa waste."
+,vegetable matter,180200,그 외 기타 달리 분류 되지 않은 제품 제조업,33999,"Cocoa shells, husks, skins and other cocoa waste."
 면,noodle,520100,,,"Cotton, not carded or combed."
+,natural fiber raw material,520100,,,"Cotton, not carded or combed."
 건설중장비부품,Construction heavy equipment parts,843141,산업용 트럭 및 적재기 제조업,29161,Parts suitable for use solely or principally with the machinery
+,Construction heavy equipment,843141,산업용 트럭 및 적재기 제조업,29161,Parts suitable for use solely or principally with the machinery
+,Construction mining machine,843141,산업용 트럭 및 적재기 제조업,29161,Parts suitable for use solely or principally with the machinery
 낙농품,Dairy,40291,액상시유 및 기타 낙농 제품 제조업,10501,"Milk and cream, concentrated or containing added sugar or other sweetening matter."
+,livestock products,40291,액상시유 및 기타 낙농 제품 제조업,10501,"Milk and cream, concentrated or containing added sugar or other sweetening matter."
 견과류,nuts,80290,"채소, 화훼 및 과실작물 시설 재배업/임산물 채취업/기타 과실ㆍ채소 가공 및 저장처리업",01152/02030/10309,"Other nuts, fresh or dried, whether or not shelled or peeled."
 의료용전자기기,Medical electronics,940210,의료용 가구 제조업,27194,"Medical, surgical, dental or veterinary furniture (for example, operating tables, examination tables, hospital beds with mechanical fittings, dentists` chairs); barbers` chairs and similar chairs, having rotating as well as both reclining and elevating movement; parts of the foregoing articles."
+,Electronic Application Devices,940210,의료용 가구 제조업,27194,"Medical, surgical, dental or veterinary furniture (for example, operating tables, examination tables, hospital beds with mechanical fittings, dentists` chairs); barbers` chairs and similar chairs, having rotating as well as both reclining and elevating movement; parts of the foregoing articles."
 포도,grape,80610,,,"Grapes, fresh or dried."
+,fruits,80610,,,"Grapes, fresh or dried."
+,grain flow,80610,,,"Grapes, fresh or dried."
 향수,perfume,330300,화장품 제조업,20423,Perfumes and toilet waters.
+,Cosmetics,330300,화장품 제조업,20423,Perfumes and toilet waters.
 골판지원지,Cardboard,480411,크라프트지 및 상자용 판지 제조업,17123,"Uncoated kraft paper and paperboard, in rolls or sheets"
+,paper products,480411,크라프트지 및 상자용 판지 제조업,17123,"Uncoated kraft paper and paperboard, in rolls or sheets"
 HDD,HDD,847170,기억장치 제조업,26321,"Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included."
+,Supplementary storage,847170,기억장치 제조업,26321,"Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included."
+,Computer,847170,기억장치 제조업,26321,"Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included."
 초코렛,Chocolate,180620,과자류 및 코코아 제품 제조업,10713,Chocolate and other food preparations containing cocoa.
+,cocoa products,180620,과자류 및 코코아 제품 제조업,10713,Chocolate and other food preparations containing cocoa.
 의료용기기부품,Medical container parts,901839,그 외 기타 의료용 기기 제조업,27199,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments."
+,medical equipment,901839,그 외 기타 의료용 기기 제조업,27199,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments."
 어류,Fish,30271,,,"Fish, fresh or chilled, excluding fish fillets and other fish meat"
 돼지고기,Pork,20630,육류 도축업(가금류 제외),10111,"Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen."
+,livestock meat,20630,육류 도축업(가금류 제외),10111,"Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen."
+,Meat,20630,육류 도축업(가금류 제외),10111,"Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen."
 음료,beverage,200950,기타 과실ㆍ채소 가공 및 저장처리업,10309,"Fruit or nut juices (including grape must and coconut water) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter."
 정밀화학원료,Fine chemicals,283410,"질소화합물, 질소, 인산 및 칼리질 화학비료 제조업",20311,Nitrites; nitrates.
 연분,fate,780420,기타 1차 비철금속 제조업,24290,"Lead plates, sheets, strip and foil; lead powders and flakes."
+,soft goods,780420,기타 1차 비철금속 제조업,24290,"Lead plates, sheets, strip and foil; lead powders and flakes."
 산업기계부품,Industrial machinery,842191,그 외 기타 일반목적용 기계 제조업,29199,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus, for liquids or gases."
+,industrial machinery,842191,그 외 기타 일반목적용 기계 제조업,29199,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus, for liquids or gases."
 의료용기기,Medical container,901831,그 외 기타 의료용 기기 제조업,27199,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments."
 액체펌프,Liquid pump,841330,액체 펌프 제조업,29131,"Pumps for liquids, whether or not fitted with a measuring device; liquid elevators."
+,Pumping,841330,액체 펌프 제조업,29131,"Pumps for liquids, whether or not fitted with a measuring device; liquid elevators."
+,prime mover,841330,액체 펌프 제조업,29131,"Pumps for liquids, whether or not fitted with a measuring device; liquid elevators."
 버터,butter,40510,액상시유 및 기타 낙농 제품 제조업,10501,Butter and other fats and oils derived from milk; dairy spreads.
+,dairy products,40510,액상시유 및 기타 낙농 제품 제조업,10501,Butter and other fats and oils derived from milk; dairy spreads.
+,livestock products,40510,액상시유 및 기타 낙농 제품 제조업,10501,Butter and other fats and oils derived from milk; dairy spreads.
 곡류,Grain,100410,,,Oats.
+,cereal crops,100410,,,Oats.
+,grain flow,100410,,,Oats.
 벤젠,benzene,270710,석탄 화학계 화합물 및 기타 기초 유기 화학 물질 제조업,20119,Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents.
+,basic oil,270710,석탄 화학계 화합물 및 기타 기초 유기 화학 물질 제조업,20119,Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents.
 금속절삭가공기계,Metal cutting machine,845611,전자 응용 절삭기계 제조업,29221,"Machine-tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc processes; water-jet cutting machines."
+,Metal machine tools,845611,전자 응용 절삭기계 제조업,29221,"Machine-tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc processes; water-jet cutting machines."
 우유,milk,40110,액상시유 및 기타 낙농 제품 제조업,10501,"Milk and cream, not concentrated nor containing added sugar or other sweetening matter."
+,dairy products,40110,액상시유 및 기타 낙농 제품 제조업,10501,"Milk and cream, not concentrated nor containing added sugar or other sweetening matter."
+,livestock products,40110,액상시유 및 기타 낙농 제품 제조업,10501,"Milk and cream, not concentrated nor containing added sugar or other sweetening matter."
 농산가공품,agricultural products,81350,기타 과실ㆍ채소 가공 및 저장처리업,10309,"Fruit, dried, other than that of headings 08.01 to 08.06; mixtures of nuts or dried fruits of this Chapter."
 주류,alcohol,220510,기타 발효주 제조업,11119,Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances.
 기계류,machinery,841710,"산업용 오븐, 노 및 노용 버너 제조업",29150,"Industrial or laboratory furnaces and ovens, including incinerators, non-electric."
 플라스틱제품,Plastic,392112,기타 플라스틱 발포 성형제품 제조업,22259,"Other plates, sheets, film, foil and strip, of plastics."
 당밀,molasses,170390,설탕 제조업,10720,Molasses resulting from the extraction or refining of sugar.
+,sugar stream,170390,설탕 제조업,10720,Molasses resulting from the extraction or refining of sugar.
 유리공예품,Glass crafts,701610,그 외 기타 유리제품 제조업,23199,"Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and other glass smallwares, whether or not on a backing, for mosaic or similar decorative purposes; leaded lights and the like; multicellular or foam glass in blocks, panels, plates, shells or similar forms."
+,handicraft,701610,그 외 기타 유리제품 제조업,23199,"Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and other glass smallwares, whether or not on a backing, for mosaic or similar decorative purposes; leaded lights and the like; multicellular or foam glass in blocks, panels, plates, shells or similar forms."
+,craftwork,701610,그 외 기타 유리제품 제조업,23199,"Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and other glass smallwares, whether or not on a backing, for mosaic or similar decorative purposes; leaded lights and the like; multicellular or foam glass in blocks, panels, plates, shells or similar forms."
+,craft item,701610,그 외 기타 유리제품 제조업,23199,"Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and other glass smallwares, whether or not on a backing, for mosaic or similar decorative purposes; leaded lights and the like; multicellular or foam glass in blocks, panels, plates, shells or similar forms."
 무기류부품,Weapon parts,930520,무기 및 총포탄 제조업,25200,Parts and accessories of articles
+,Weapons,930520,무기 및 총포탄 제조업,25200,Parts and accessories of articles
 의섬유제품,Fiber,560121,그 외 기타 분류 안된 섬유제품 제조업,13999,"Wadding of textile materials and articles thereof; textile fibres, not exceeding 5 ㎜ in length (flock), textile dust and mill neps."
 유지가공품,dairy products,151790,식용 정제유 및 가공유 제조업,10403,"Margarine; edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, other than edible fats or oils or their fractions"
 과일주스,Fruit juice,200911,기타 과실ㆍ채소 가공 및 저장처리업,10309,"Fruit or nut juices (including grape must and coconut water) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter."
+,Beverage,200911,기타 과실ㆍ채소 가공 및 저장처리업,10309,"Fruit or nut juices (including grape must and coconut water) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter."
 수산부산물,Fishery,51191,기타 수산동물 가공 및 저장처리업,10219,"Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption."
 종이,Paper,480210,기타 종이 및 판지 제조업,17129,"Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non perforated punch-cards and punch tape paper, in rolls or rectangular (including square) sheets, of any size; hand-made paper and paperboard."
 계측기,measuring instrument,902580,"물질 검사, 측정 및 분석기구 제조업",27213,"Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments."
+,Measurement control analyzer,902580,"물질 검사, 측정 및 분석기구 제조업",27213,"Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments."
 주철,cast iron,732510,그 외 기타 분류 안된 금속가공제품 제조업,25999,Other cast articles of iron or steel.
+,staple product,732510,그 외 기타 분류 안된 금속가공제품 제조업,25999,Other cast articles of iron or steel.
 정밀화학제품,Fine chemicals,320110,"염료, 조제 무기 안료, 유연제 및 기타 착색제 제조업",20132,"Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives."
 소스류,Sauce,210320,천연 및 혼합 조제 조미료 제조업,10742,Sauces and preparations therefor; mixed condiments and mixed seasoning; mustard flour and meal and prepared mustard.
 마이크로폰,microphone,851810,기타 음향기기 제조업,26529,"Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers; audio-frequency electric amplifiers; electric sound amplifier sets."
+,sound system,851810,기타 음향기기 제조업,26529,"Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers; audio-frequency electric amplifiers; electric sound amplifier sets."
+,audio equipment,851810,기타 음향기기 제조업,26529,"Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers; audio-frequency electric amplifiers; electric sound amplifier sets."
 인쇄용지,Printing paper,480254,인쇄용 및 필기용 원지 제조업,17122,"Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non perforated punch-cards and punch tape paper, in rolls or rectangular (including square) sheets, of any size; hand-made paper and paperboard."
+,paper products,480254,인쇄용 및 필기용 원지 제조업,17122,"Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non perforated punch-cards and punch tape paper, in rolls or rectangular (including square) sheets, of any size; hand-made paper and paperboard."
 연,lead,780200,그 외 기타 달리 분류 되지 않은 제품 제조업,33999,Lead waste and scrap.
 윤활유,lubricating oil,271019,원유 정제 처리업/윤활유 및 그리스 제조업/기타 석유 정제물 재처리업,19210/19221/19229,"Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils."
 난방및전열기기,heating machine,851671,기타 가정용 전기기기 제조업,28519,"Electric instantaneous or storage water heaters and immersion heaters; electric space heating apparatus and soil heating apparatus; electro-thermic hair-dressing apparatus (for example, hair dryers, hair curlers, curling tong heaters) and hand dryers; electric smoothing irons; other electro-thermic appliances of a kind used for domestic purposes; electric heating resistors"
 사탕,candy,170490,과자류 및 코코아 제품 제조업,10713,"Sugar confectionery (including white chocolate), not containing cocoa."
 꿀,honey,40900,,,Natural honey.
 컴퓨터,computer,847130,컴퓨터 제조업,26310,"Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included."
-승요차,car,870380,,,"Motor?cars and other motor vehicles principally designed for the transport of persons (other than those of heading 87.02), including station wagons and racing?cars."
+승용차,car,870380,,,"Motor?cars and other motor vehicles principally designed for the transport of persons (other than those of heading 87.02), including station wagons and racing?cars."
+,motor vehicles,870380,,,"Motor?cars and other motor vehicles principally designed for the transport of persons (other than those of heading 87.02), including station wagons and racing?cars."
 크라프트지,kraft paper,480421,크라프트지 및 상자용 판지 제조업,17123,"Uncoated kraft paper and paperboard, in rolls or sheets"
 단백질류,Protein,350400,접착제 및 젤라틴 제조업,20493,"Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed."
-화학공업제품,Chemical,290379,석유화학계 기초 화학 물질 제조업,20111,Halogenated derivatives of hydrocarbons.
+화학공업제품,Chemical products,290379,석유화학계 기초 화학 물질 제조업,20111,Halogenated derivatives of hydrocarbons.

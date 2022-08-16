@@ -1,0 +1,139 @@
+﻿4단위 MTI 코드,4단위 품목,4단위 번역 품목,,,,6단위 MTI 코드,6단위 품목,6단위 번역 품목
+111,곡류,cereal crops,,,,11110,쌀,Rice
+112,서류,grain,,,,11120,보리,Barley
+113,두류,beans,,,,11130,밀,Wheat
+114,곡분,grain powder,,,,11140,옥수수,Corn
+115,채유종실,oil-producing chamber,,,,11160,수수,sorghum
+116,과실류,fruits,,,,11210,감자,Potato
+125,견과류,Nuts,,,,11230,타피오카,tapioca
+131,식물성유지,vegetable oil,,,,11310,대두,soybean
+132,유지 가공품,oil and fat products,,,,11420,보리가루,barley flour
+135,박류,gourd,,,,11430,밀가루,Flour
+136,사료,feedstuff,,,,11510,땅콩,Peanut
+143,소스류,sauces,,,,11540,해바라기씨,sunflower seeds
+151,커피류,Coffee,,,,11602,배,pear
+152,초코렛 및 코코아조제품,Chocolate and cocoa products,,,,11605,살구,Apricot
+157,주류,alcoholic liquors,,,,11608,버찌,cherries
+158,당류,sugar stream,,,,11613,대추야자,date palm
+159,음료,Beverage,,,,11616,망고,Mango
+161,사탕 또는 과자류,sweets or confectionery,,,,11617,바나나,Banana
+169,농산가공품,agricultural products,,,,11618,오렌지,Orange
+170,종자류,Seeds,,,,11621,포도,grape
+191,천연섬유원료,natural fiber raw material,,,,12520,호두,walnuts
+221,가축육류,livestock meat,,,,12550,아몬드,almond
+229,육류,meats,,,,12560,코코넛,coconut
+231,동물성유지,animal oil,,,,13120,참기름,Sesame oil
+241,육류가공품,meat-processed goods,,,,14330,고추장,red pepper paste
+242,꿀 및 로얄제리,Honey and royal jelly,,,,14350,겨자,Mustard
+243,낙농품,dairy products,,,,14360,마요네즈,Mayonnaise
+245,단백질류,Proteins,,,,14370,카레,Curry
+250,모류,animal hair,,,,15110,커피,Coffee
+311,원목,solid wood,,,,15120,커피 조제품,coffee preparation
+419,어류,Fish,,,,15210,초코렛,chocolate
+470,수산부산물,fishery by-products,,,,15220,코코아조제품,cocoa products
+1111,금,gold,,,,15720,맥주,Beer
+1120,철광,iron mine,,,,15740,포도주,Wine
+1130,동광,copper mine,,,,15750,위스키,Whiskey
+1140,알루미늄광,aluminum ore,,,,15760,브랜디,Brandy
+1160,아연광,zinc ore,,,,15810,원당,raw sugar
+1190,금속광물,metallic mineral,,,,15820,정당,political parties
+1220,소금,Salt,,,,15830,당밀,molar wheat
+1290,비금속광물,nonmetallic mineral,,,,15910,물,Water
+1310,원유,crude oil,,,,15920,음료 베이스,Beverage base
+1321,무연탄,anthracite coal,,,,15940,과일주스,Fruit juice
+1322,유연탄,bituminous coal,,,,16110,껌,Gum
+1334,나프타,naphtha,,,,16120,사탕,Candy
+1336,윤활유,Lubricating oil,,,,16130,비스킷,biscuit
+1340,천연가스,natural gas,,,,19120,모,wool
+1350,LPG,LPG,,,,19130,면,cotton
+2110,기초유분,basic oil,,,,22110,쇠고기,Beef
+2140,합성수지,synthetic resin,,,,22120,돼지고기,Pork
+2212,안료,pigment,,,,22130,양고기,Lamb
+2230,접착제,Glue,,,,23110,우지,cow oil
+2262,의약품,Medication,,,,24110,소시지,Sausage
+2273,화장품,Cosmetics,,,,24210,꿀,Honey
+2279,화장품,Cosmetics,,,,24220,로얄제리,Royal jelly
+2282,암모니아수,ammonia water,,,,24310,우유,Milk
+2289,기밀화학원료,air-tight chemical raw material,,,,24320,분유,powdered milk
+2290,정밀화학제품,precision chemical products,,,,24330,버터,Butter
+2512,고지,unbleached kraft paper,,,,24340,치즈,Cheese
+2522,인쇄용지,printing paper,,,,134010,LNG,LNG
+2525,크라프트지,Kraft paper,,,,134020,PNG,PNG
+2527,골판지원지,corrugated paper,,,,135010,프로판,propane
+2529,종이제품,paper products,,,,135020,부탄,Bhutan
+2900,화학공업제품,chemical industrial products,,,,211040,벤젠,Benzene
+3109,플라스틱제품,Plastic products,,,,214001,저밀도 에틸렌,low-density ethylene
+4412,직물제의류,textile clothing,,,,214003,발포성 폴리스티렌,foamable polystyrene
+4490,섬유제품,textile products,,,,214008,폴리메타아크릴산메틸,methyl polymethacrylate
+5116,위생용품,sanitary products,,,,214010,실리콘수지,silicone resin
+5253,유리공예품,glasswork,,,,214014,폴리에스테르수지,polyester resin
+6172,주철,cast iron,,,,214015,폴리아미드수지,polyamide resins
+6184,고철,scrap metal,,,,227310,향수 또는 화장수,Perfume or makeup water
+6211,알루미늄괴 및 스크랩,Aluminum ingots and scraps,,,,227320,기초화장품,Basic cosmetics
+6212,알루미늄조가공품,Aluminum manufactured goods,,,,227330,두발용 제품,hair products
+6221,동괴 및 스크랩,Copper and scrap,,,,227340,면도용 제품,shaving products
+6231,니켈괴 및 스크랩,Nickel Bulk and Scrap,,,,227350,인체용 탈취제,deodorant for the human body
+6232,니켈조가공품,nickel fabricated goods,,,,227360,목욕용 제품,bath products
+6251,연괴 및 스크랩,Kneading and Scrap,,,,227370,세안용품,Washing items
+6252,연조가공품,soft goods,,,,441201,코트 및 자켓,Coats and jackets
+6261,아연괴 및 스크랩,Zinc clots and scraps,,,,441202,신사복,gentleman's suit
+6290,비철금속제품,nonferrous metal products,,,,441205,신사복 상의,gentleman's coat
+7112,펌프,Pumping,,,,441206,여성 양복 상의,women's suit jacket
+7216,화학기계,chemical machinery,,,,441207,남성 바지,men's pants
+7231,금속절삭가공기계,Metal cutting machine,,,,441208,여성 바지 스커트,women's pants skirt
+7251,건설중장비,Construction heavy equipment,,,,441209,드레스,Dress
+7290,산업기계,industrial machinery,,,,441210,블라우스,Blouse
+7331,의료용기기,medical equipment,,,,441212,운동복,sportswear
+7332,의료용기기부품,Medical equipment components,,,,441213,남성 셔츠,men's shirt
+7411,승용차,Car,,,,441214,잠옷,Pajamas
+7420,자동차 부품,automobile parts,,,,441215,내복,underwear
+7442,철도차량부품,Railway vehicle parts,,,,441216,유아용 의류,baby clothes
+7901,기계류,Machinery,,,,441217,코팅제 의류,coated clothing
+7902,기계류부품,Machine parts,,,,441220,의류 부속품,clothing accessories
+8131,컴퓨터,Computer,,,,449001,양탄자,carpet
+8132,보조기억장치,Supplementary storage,,,,449002,모포 및 여행용 깔개,blanket and travel rug
+8147,의료용전자기기,medical electronics,,,,449003,실내용품,indoor goods
+8151,계측기,Measuring instrument,,,,449004,포장용 빈포대,packing bag
+8156,분석시험기부품,Analysis tester parts,,,,449007,로프,rope
+8226,마이크 및 헤드폰,Microphone and headphones,,,,449009,침구 이불,bedclothes
+8259,난방 및 전열기기,heating equipment,,,,449010,장갑,Gloves
+9701,무기류,Weapons,,,,511610,표면활성제,surface activator
+9702,무기류 부품,weapon parts,,,,511620,왁스,Wax
+,,,,,,511630,광택제,polish
+,,,,,,511640,구강 및 치과 위생 용품,Oral and dental hygiene products
+,,,,,,511650,화장지,Toilet paper
+,,,,,,511660,면도용품,shaving goods
+,,,,,,621110,알류미늄괴,aluminum ingot
+,,,,,,621120,알류미늄스크랩,Aluminium scrap
+,,,,,,621210,알루미늄분,Aluminum powder
+,,,,,,621240,알루미늄판,aluminum foil
+,,,,,,622120,동괴,lump of copper
+,,,,,,622130,동스크랩,copper scrap
+,,,,,,623110,미정제 니켈 괴,unrefined nickel lump
+,,,,,,623120,니켈괴,Nickel Bulk
+,,,,,,623210,니켈분,Nickel powder
+,,,,,,625110,연괴,Kneading and Scrap
+,,,,,,625120,연스크랩,soft scrap
+,,,,,,625220,연분,match
+,,,,,,625240,연판 및 대,lead plate and a lead band
+,,,,,,626110,아연괴,zinc ingot
+,,,,,,711210,액체펌프,liquid pump
+,,,,,,711220,기체펌프,gas pump
+,,,,,,711230,펌프부품,Pump parts
+,,,,,,721610,화학기계,chemical machinery
+,,,,,,721620,화학기계 부품,chemical mechanical components
+,,,,,,725130,건설 중장비 부품,Construction Heavy Equipment Parts
+,,,,,,729010,산업기계,industrial machinery
+,,,,,,729020,산업기계 부품,Industrial machinery parts
+,,,,,,742000,자동차 부품,automobile parts
+,,,,,,742010,자동차용 내연기관,automobile internal combustion engine
+,,,,,,813110,휴대용 컴퓨터,portable computer
+,,,,,,813120,개인용 컴퓨터,personal computer
+,,,,,,813220,HDD,HDD
+,,,,,,814780,의료용 전자기기 부품,medical electronic parts
+,,,,,,815110,중량계,heavy meter
+,,,,,,815120,온도계,Thermometer
+,,,,,,815150,속도계,speedometer
+,,,,,,815160,유량압력계,Flow pressure gauge
+,,,,,,815170,전기계측기,electric instrument
+,,,,,,822610,마이크로폰,Microphone
