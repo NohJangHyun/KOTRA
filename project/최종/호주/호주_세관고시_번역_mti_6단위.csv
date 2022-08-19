@@ -1,0 +1,212 @@
+﻿MTI(6단위),품목(6단위),번역(6단위)
+11110,쌀,Rice
+11120,보리,Barley
+11130,밀,Wheat
+11140,옥수수,Corn
+11160,수수,sorghum
+11190,곡류,cereal crops
+11210,감자,Potato
+11230,타피오카,tapioca
+11310,대두,soybean
+11390,두류,beans
+11420,보리가루,barley flour
+11430,밀가루,Flour
+11490,곡분,grain powder
+11510,땅콩,peanut
+11540,해바라기씨,sunflower seeds
+11560,아마인,flax seed
+11590,채유종실,oil-producing chamber
+11602,배,pear
+11605,살구,Apricot
+11608,버찌,cherries
+11613,대추야자,date palm
+11616,망고,Mango
+11617,바나나,Banana
+11618,오렌지,Orange
+11621,포도,grape
+11690,과실,fruits
+12520,호도,walnuts
+12550,아몬드,almond
+12560,코코넛,coconut
+12590,견과류,nuts
+13120,참기름,Sesame oil
+13190,식물성유지,vegetable oil
+13290,유지가공품,oil and oil products
+13500,박류,gourd
+13600,사료,feedstuff
+14330,고추장,red pepper paste
+14350,겨자,Mustard
+14360,마요네즈,Mayonnaise
+14370,카레,Curry
+14390,소스류,sauces
+15110,커피,Coffee
+15120,커피 조제품,coffee preparation
+15210,초코렛,chocolate
+15220,코코아조제품,cocoa products
+15720,맥주,Beer
+15740,포도주,Wine
+15750,위스키,Whiskey
+15760,브랜디,Brandy
+15790,주류,alcoholic liquors
+15810,원당,raw sugar
+15820,정당,political parties
+15830,당밀,molar wheat
+15890,당류,sugar stream
+15910,물,Water
+15920,음료 베이스,Beverage base
+15940,과일주스,Fruit juice
+15990,음료,Beverage
+16110,껌,Gum
+16120,사탕,Candy
+16130,비스킷,biscuit
+16900,농산가공품,agricultural products
+17000,종자류,Seeds
+19120,모,wool
+19130,면,cotton
+22110,쇠고기,Beef
+22120,돼지고기,Pork
+22130,양고기,Lamb
+22190,육류,meats
+23110,우지,cow oil
+24110,소시지,Sausage
+24190,육류가공품,meat-processed goods
+24210,꿀,Honey
+24220,로얄제리,Royal jelly
+24310,우유,Milk
+24320,분유,powdered milk
+24330,버터,Butter
+24340,치즈,Cheese
+24390,낙농품,dairy products
+24500,단백질류,Proteins
+25000,모류,animal hair
+31100,원목,solid wood
+41900,어류,Fish
+47000,수산부산물,fishery by-products
+111100,금,gold
+112000,철광,iron mine
+113000,동광,copper mine
+114000,알루미늄광,aluminum ore
+116000,아연광,zinc ore
+119000,금속광물,metallic mineral
+122000,소금,Salt
+129000,비금속광물,nonmetallic mineral
+131000,원유,crude oil
+132100,무연탄,anthracite coal
+132200,유연탄,bituminous coal
+133400,나프타,naphtha
+133600,윤활유,Lubricating oil
+134010,LNG,LNG
+134020,PNG,PNG
+135010,프로판,propane
+135020,부탄,Bhutan
+211040,벤젠,Benzene
+211090,기초유분,basic oil
+214001,저밀도 에틸렌,low-density ethylene
+214003,발포성 폴리스티렌,foamable polystyrene
+214008,폴리메타아크릴산메틸,methyl polymethacrylate
+214010,실리콘수지,silicone resin
+214014,폴리에스테르수지,polyester resin
+214090,합성수지,synthetic resin
+221200,안료,pigment
+223000,접착제,Glue
+226200,의약품,Medication
+227310,"향수, 화장수",Perfume or makeup water
+227320,기초화장품,Basic cosmetics
+227330,두발용 제품,hair products
+227340,면도용 제품,shaving products
+227350,인체용 탈취제,deodorant for the human body
+227360,목욕용 제품,bath products
+227370,세안용품,Washing items
+227390,화장품,Cosmetics
+228200,암모니아수,ammonia water
+228900,정밀화학원료,precise chemical material
+229000,정밀화학제품,precision chemical products
+251200,고지,unbleached kraft paper
+252200,인쇄용지,printing paper
+252500,크라프트지,Kraft paper
+252700,골판지원지,corrugated paper
+252900,종이제품,paper products
+290000,화학공업제품,chemical industrial products
+310900,플라스틱제품,Plastic products
+441202,신사복,gentleman's suit
+441205,신사복 상의,gentleman's coat
+441206,여성 양복 상의,women's suit jacket
+441207,남성 바지,men's pants
+441208,여성 바지 스커트,women's pants skirt
+441209,드레스,Dress
+441210,블라우스,Blouse
+441212,운동복,sportswear
+441213,남성 셔츠,men's shirt
+441214,잠옷,Pajamas
+441215,내복,underwear
+441216,유아용 의류,baby clothes
+441217,코팅제 의류,coated clothing
+441220,의류 부속품,clothing accessories
+449001,양탄자,carpet
+449002,모포 및 여행용 깔개,blanket and travel rug
+449003,실내용품,indoor goods
+449004,포장용 빈포대,packing bag
+449007,로프,rope
+449009,침구 이불,bedclothes
+449010,장갑,Gloves
+449090,의섬유제품,textile products
+511610,표면활성제,surface activator
+511620,왁스,Wax
+511630,광택제,polish
+511640,구강 및 치과 위생 용품,Oral and dental hygiene products
+511650,화장지,Toilet paper
+511660,면도용품,shaving goods
+525300,유리공예품,glasswork
+617290,주철,cast iron
+618400,고철,scrap metal
+621110,알류미늄괴,aluminum ingot
+621120,알류미늄스크랩,Aluminium scrap
+621210,알루미늄분,Aluminum powder
+621240,알루미늄판,aluminum foil
+622120,동괴,lump of copper
+622130,동스크랩,copper scrap
+623110,미정제 니켈 괴,unrefined nickel lump
+623120,니켈괴,Nickel Bulk
+623210,니켈분,Nickel powder
+625110,연괴,Kneading and Scrap
+625120,연스크랩,soft scrap
+625220,연분,match
+625240,연판 및 대,lead plate and a lead band
+626110,아연괴,zinc ingot
+629000,비철금속제품,nonferrous metal products
+711210,액체펌프,liquid pump
+711220,기체펌프,gas pump
+711230,펌프부품,Pump parts
+721610,화학기계,chemical machinery
+721620,화학기계 부품,chemical mechanical components
+723100,금속절삭가공기계,Metal cutting machine
+725130,건설 중장비 부품,Construction Heavy Equipment Parts
+725190,건설 중장비,Construction heavy
+729010,산업기계,industrial machinery
+729020,산업기계 부품,Industrial machinery parts
+733100,의료용기기,medical equipment
+733200,의료용기기부품,Medical equipment components
+741160,"불꽃점화식 1,500cc 초과","Flame ignition exceeding 1,500cc"
+741190,승용차,car
+742000,자동차 부품,automobile parts
+742010,자동차용 내연기관,automobile internal combustion engine
+744200,철도차량부품,Railway vehicle parts
+790100,기계류,Machinery
+790200,기계류부품,Machine parts
+813110,휴대용 컴퓨터,portable computer
+813120,개인용 컴퓨터,personal computer
+813220,HDD,HDD
+814750,혈압측정기,blood pressure meter
+814780,의료용 전자기기 부품,medical electronic parts
+814790,의료용 전자기기,medical electronic
+815110,중량계,heavy meter
+815120,온도계,Thermometer
+815150,속도계,speedometer
+815160,유량압력계,Flow pressure gauge
+815180,전자계측기,electronic measuring instrument
+815190,계측기,mesuring instrument
+815600,분석시험기부품,Analysis tester parts
+822610,마이크로폰,Microphone
+825900,난방 및 전열기기,heating equipment
+970100,무기류,Weapons
+970200,무기류 부품,weapon parts
