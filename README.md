@@ -1,9 +1,8 @@
-# Kotra-Project
-KOTRA-Project는 최종적으로 코트라와 계약을 맺게 되어 최종 결과물을 Private으로 전환했습니다.
+KOTRA-Project는 최종적으로 코트라와 계약을 맺게 되어 최종 결과물을 Private으로 전환했습니다.<br>
 해당 Repository에서는 프로젝트 과정에서 작성한 데이터 수집 크롤러, 키워드 추출 알고리즘 등 프로젝트의 일부 작업만 확인할 수 있습니다. <br>
 회의록: https://special-scabiosa-ef6.notion.site/KOTRA-40707eb743ca4ae78fc4a1cabccfa8c3<br>
 
-#
+# Kotra-Project
 ### 프로젝트 소개<br>
 Kotra project는 대한무역투자진흥공사인 Kotra와 연계하여 진행한 프로젝트로 2021년에 발생한 요소수 대란을 기점으로 대두된 글로벌 공급망 위기에 대처하기 위해 구축한 세관 고시 분석 및 모니터링 시스템입니다.
 
